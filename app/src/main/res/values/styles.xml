@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.CompradorAutomatico" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#0D47A1</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:colorAccent">#FFC107</item>
+    </style>
+</resources>
